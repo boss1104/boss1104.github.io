@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name":"Hello,  Welcome to my website!!!",
+    "description":"My name is Jackie Attaway and I come from Canada.On this website, you can show My resume, about, the projects what I build, My skills and My account",
+    "image":"profilepic.png",
+    "bio":"I am a full stack developer. MERN, MEAN, PHP, Web Design, MySql and MongoDB specialist. I have more than 6.5 years of experience to build some kinds of website including e-Commerce, Business, Blog, Personal and so on. ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "email: alphaBoss1104@gmail.com",
+    "address":{
+      "skypeID":"skypeID:  live:.cid.31b0488e24ba8df1",
+      "slackName":"slackName: Jackie Attaway"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Frontend development",
+        "graduated":"April 2016",
+        "description":"I am graduated Toronto University."
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelancer",
+        "title":"Junior Full Stack Developer ",
+        "years":"April 2016 - December 2019",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Synergo Group Officer",
+        "title":"Senior Full Stack Developer",
+        "years":"January 2020 - September 2022",
+        "description":"I developed websites for Synergo Group."
+      },
+      {
+        "company":"Freelancer",
+        "title":"Senior Full Stack Developer",
+        "years":"November 2022 - Current",
+        "description":"I developed websites and design for client."
+      }
+    ],
+    "skills":[
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"AngularJs",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"100%"
+      },
+      {
+        "name":"VueJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"80%"
+      },
+      {
+        "name":"MongDB",
+        "level":"85%"
+      },
+      {
+        "name":"MySQL",
+        "level":"100%"
+      },
+      {
+        "name":"Web Design",
+        "level":"70%"
+      },
+      {
+        "name":"Android",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Gift Website",
+        "category":"",
+        "image":"01.png",
+        "url":""
+      },
+      {
+        "title":"E-Commerce WebSite",
+        "category":"",
+        "image":"02.png",
+        "url":""
+      },
+      {
+        "title":"Shopify WebSite",
+        "category":"",
+        "image":"03.png",
+        "url":"https://www.caratlane.com/"
+      },
+      {
+        "title":"Gallery WebSite",
+        "category":"",
+        "image":"04.png",
+        "url":"http://diversebuild.com.au/gallery/"
+      }
+      
+    ]
+  }
+}
